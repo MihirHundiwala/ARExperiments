@@ -9,3 +9,5 @@ Step 3: Open the target images that are provided in the 'Target Images' folder i
 Step 4: Target your camera to the target images and wait till the model shows up!
 
 And there you go! Enjoy and learn science experiments visually!
+
+'Blender Files' contains all the blender models.
