@@ -1,6 +1,6 @@
 # ARExperiments
 This project was made for learning purpose.
-Ar Experiments is an android application which augments cool science experiments when it recognizes the target images associated to the experiments.
+AR Experiments is an android application which augments cool science experiments when it recognizes the target images associated to the experiments.
 In this project, the number of experiments are limited(2).
 
 Step 1: Download the .apk file from repository and install it in your android device.
